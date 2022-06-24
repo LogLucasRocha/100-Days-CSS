@@ -1,8 +1,13 @@
-## 🚀 100 Days - CSS Challenge 🚀
+<h2 align="center">
+    <b>🚀 30 Days - CSS Challenge 🚀</b>  
+    <br><br>
+</h2>
+
+<br>
 
 ## 🧐 Sobre o desafio
-
 Serão 100 dias fazendo mini projetos diários com HTML5 e CSS3 visando melhorar a habilidade de codificação.
+<br><br>
 
 ## 📢 Regras gerais
 
